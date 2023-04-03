@@ -1,0 +1,2 @@
+ErrorFiles = []
+jsonBasepath = ""
